@@ -1,22 +1,23 @@
 # Assignmnet 1B
 
 ## Kernel
-- A kernel or a filter is mathematically a matrix which runs over the input to extract features of an input. It is generally used to extract important features from an image. The basic feature extractions are blurring, sharpening, embossing, edge detection. 
-- Mathematically it can be used set[matrix] of learnable weights.
-- The weights of the kernels are randomly assigned at the start, and during training they get updated automatically. 
+- A kernel or a filter is mathematically a matrix which runs over the input to extract features of an input. 
+- The basic feature extractions are blurring, sharpening, embossing, edge detection. 
+- Mathematically it can be used set[matrix] of learnable weights. These weights of the kernels are randomly assigned at the start, and during training they get updated automatically. 
 - A kernel slides over the image, performs convolution and produces feature map as the output. The feature maps are useful for performing the learning tasks such as detection and classification better.
 
 ## Channels: 
 
 There is no exact definition which can explain the channels in neural network. But following points can used to conceptualize the "channels".
 1) Channels are also defined as depth of an input.
-	i.e For an image, there will be 3 channels Red,Green,Blue.
+​	i.e For an image, there will be 3 channels Red,Green,Blue.
 2) Channels are the outcome of convolutions.
-	A kernel slides over the image, performs convolution and produces feature map as the output. 
-3) Ex: 
-	If the input has one channel such as a grayscale image, then a 3×3 filter will be applied in 3x3x1 blocks.
-	If the input image has three channels for red, green, and blue, then a 3×3 filter will be applied in 3x3x3 blocks.
-	If the input is a block of feature maps from another convolutional or pooling layer and has the depth of 64, then the 3×3 filter will be applied in 3x3x64 blocks to create the single values to make up the single output feature map.
+​	A kernel slides over the image, performs convolution and produces feature map as the output. 
+3) Below explained in detail with an ex: 
+
+- ​	If the input has one channel such as a grayscale image, then a 3×3 filter will be applied in 3x3x1 blocks.
+- ​	If the input image has three channels for red, green, and blue, then a 3×3 filter will be applied in 3x3x3 blocks.
+- ​	If the input is a block of feature maps from another convolutional or pooling layer and has the depth of 64, then the 3×3 filter will be applied in 3x3x64 blocks to create the single values to make up the single output feature map.
 
 In image processing, filter/kernels are used to extract important features from an image. A kernel slides over the image, performs convolution and produces feature map as the output. The feature maps are useful for performing the learning tasks such as detection and classification better.
 
