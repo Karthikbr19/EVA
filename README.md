@@ -1,7 +1,7 @@
 # Assignmnet 1B
 
 ## Kernel
-- A kernel or a filter is mathematically a matrix which runs over the input to extract features of an input. 
+- A kernel or a filter is mathematically a matrix which runs over the input to extract the features. 
 - The basic feature extractions are blurring, sharpening, embossing, edge detection. 
 - Mathematically it can be used set[matrix] of learnable weights. These weights of the kernels are randomly assigned at the start, and during training they get updated automatically. 
 - A kernel slides over the image, performs convolution and produces feature map as the output. The feature maps are useful for performing the learning tasks such as detection and classification better.
