@@ -34,7 +34,7 @@ Similarly, there are different filters available for performing tasks such as ed
 
 Previously, research used to spend a lot of time handcrafting these filters which can perform various tasks such as curve detection, noise removal, etc. After that, the feature maps produced by this filter will be used for classification,etc.
 
-Handcrafting of kernels is no more required due to advancement in the field of deep learning. The kernels are initialzed with random weights. During the neural network training, these values of the filter which are called "weights" are learned. At every layer , we can mention number of filters to be learned. The initial filters learn to detect small edges,lines, etc. The latter filter learns to detect bigger things such as face,eye,etc. as they have a bigger receptive field.
+The kernels are initialzed with random weights. During the neural network training, these values of the filter which are called "weights" are learned. At every layer , we can mention number of filters to be learned. The initial filters learn to detect small edges,lines, etc. The latter filter learns to detect bigger things such as face,eye,etc. as they have a bigger receptive field.
 
 
 
