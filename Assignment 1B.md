@@ -22,22 +22,15 @@ There is no exact definition which can explain the channels in neural network. B
 - 	If the input is a block of feature maps from another convolutional or pooling layer and has the depth of 64, then the 3×3 filter will be applied in 3x3x64 blocks to create the single values to make up the single output feature map.
 
 
-
-Blur Kernel :
-
-$\begin{bmatrix}0.0625 & 0.125 & 0.0625\\
-​                0.0625 & 0.25 & 0.0625\\
-​                0.0625 & 0.125 & 0.0625\\
-\end{bmatrix}$
-
+Below you can find an example of a blur kernel.
 
 
 |                Original Image                 |                     Blurred Image                     |
 | :-------------------------------------------: | :---------------------------------------------------: |
-| ![](https://image.ibb.co/bTFGuS/einstein.jpg) | ![](https://image.ibb.co/dsMZg7/blurred_einstein.jpg) |
+| ![](https://i.ibb.co/8X7F10q/av1.jpg) | ![](https://i.ibb.co/FBq2CP2/av1-blur.png) |
 
 
-As it can be seen above, by applying gaussian filter, we were able to blur the image. Similarly, there are different filters available for performing tasks such as edge detection,sharpening,etc.
+Similarly, there are different filters available for performing tasks such as edge detection,sharpening,etc.
 
 Previously, research used to spend a lot of time handcrafting these filters which can perform various tasks such as curve detection, noise removal, etc. After that, the feature maps produced by this filter will be used for classification,etc.
 
