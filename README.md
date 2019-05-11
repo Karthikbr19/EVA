@@ -4,5 +4,6 @@
  
 # Session 2
  ## Assignemnt 2 :
-colab link: Here(https://colab.research.google.com/drive/1gsgma_36Cy99BhpiS7SHsKKBhvEq2GrK)
+colab link: https://colab.research.google.com/drive/1gsgma_36Cy99BhpiS7SHsKKBhvEq2GrK
+Github link: https://github.com/Karthikbr19/EVA/blob/master/Session2/Session2_kbr_final.ipynb
 
