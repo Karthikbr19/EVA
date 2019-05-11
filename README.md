@@ -4,4 +4,5 @@
  
 # Session 2
  ## Assignemnt 2 :
-colab link: [I'm an inline-style link](https://www.google.com)
+colab link: Here(https://colab.research.google.com/drive/1gsgma_36Cy99BhpiS7SHsKKBhvEq2GrK)
+
