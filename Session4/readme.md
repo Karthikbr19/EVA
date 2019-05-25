@@ -1,6 +1,6 @@
 How many layers
 
-MaxPooling: 
+## MaxPooling: 
   Max pooling is a sample-based discretization process. The objective is to down-sample an input representation (image, hidden-layer output matrix, etc.), reducing its dimensionality and allowing for assumptions to be made about features contained in the sub-regions binned.
 
 
