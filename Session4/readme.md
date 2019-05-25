@@ -14,17 +14,20 @@ To address this problem, a 1×1 convolutional layer can be used that offers a ch
 
 ## 3x3 Convolutions
 
-While designing the network, we need to take a decision on the size of the matrix (Kernel). ​
+While designing the network, we need to take a decision on the size of the matrix (Kernel).
+
 Choosing 3 * 3 has advantages: 
+
 Computationally efficient:
-​	If we apply 3x3 kernel twice, we have actually used (3x3 + 3x3) weights. But in case if we used 5*5 we have used 25 weights.
+  If we apply 3x3 kernel twice, we have actually used (3x3 + 3x3) weights. But in case if we used 5*5 we have used 25 weights.
 
 More linear features:
-​	Due to the larger number of layers, it learns complex, more non-linear features.
+  Due to the larger number of layers, it learns complex, more non-linear features.
+  
 
-Receptive Field
+## Receptive Field
 
-SoftMax
+## SoftMax
 
 Learning Rate
 
