@@ -5,7 +5,12 @@ How many layers
 
 
 
-1x1 Convolutions
+## 1x1 Convolutions:
+
+MaxPooling can be used to down sample the content of feature maps, reducing their width and height but number of feature maps remains same and generally it increases with the hidden layers.
+
+To address this problem, a 1×1 convolutional layer can be used that offers a channel-wise pooling, often called feature map pooling or a projection layer.
+
 
 3x3 Convolutions
 
