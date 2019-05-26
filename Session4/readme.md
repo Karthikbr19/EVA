@@ -7,7 +7,38 @@
 
 # Architectural Basics
 
-## How many layers
+## Image Normalization,
+## 3x3 Convolutions,
+## Kernels and how do we decide the number of kernels?
+## How many layers,
+## Receptive Field,
+## Position of MaxPooling,
+## MaxPooling,
+## 1x1 Convolutions,
+## Batch Normalization,
+## Concept of Transition Layers,
+## Position of Transition Layer,
+## The distance of MaxPooling from Prediction,
+## The distance of Batch Normalization from Prediction,
+## SoftMax,
+## Adam vs SGD
+## When to add validation checks
+## How do we know our network is not going well, comparatively, very early
+## When do we introduce DropOut, or when do we know we have some overfitting
+## DropOut
+## Batch Size, and effects of batch size
+## LR schedule and concept behind it
+## Learning Rate,
+## Number of Epochs and when to increase them,
+
+
+
+
+
+
+
+
+
 
 ## MaxPooling: 
   Max pooling is a sample-based discretization process. The objective is to down-sample an input representation (image, hidden-layer output matrix, etc.), reducing its dimensionality and allowing for assumptions to be made about features contained in the sub-regions binned.
