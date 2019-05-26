@@ -25,19 +25,19 @@
 ## When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered)
 
 ## MaxPooling,
-   After building a vanilla netork or a basic model, now we need to concentrating on the reducign the number of parameters in the model and maxpooling makes an important role in it
+   After building a vanilla network or a basic model, now we need to concentrating on the reducing the number of parameters in the model and maxpooling makes an important role in it
 
 ## Position of MaxPooling:
-   Maxpooling will be genrally done as the network learns, generally after a couple of convolutions.
+   Maxpooling will be generally done as the network learns, generally after a couple of convolutions.
    
 ## 1x1 Convolutions: 
-   Maxpooling recuces the height and width of the image, but channel reduction will be done by the 1x1 convolutions.
+   Maxpooling reduces the height and width of the image, but channel reduction will be done by the 1x1 convolutions.
 
 ## Batch Normalization: 
    We normalize the input layer by adjusting and scaling the activations. Batch normalization reduces the amount by what the hidden unit values shift around (covariance shift). 
    
 ## Concept of Transition Layers: 
-   When model becomes it is higly impractical to write each layer, instead we make blocks and reuse it with different filters. And layers between two dense blocks will be placed, which consists of Batch Normalization, 1x1 Convolution &
+   When model becomes it is highly impractical to write each layer, instead we make blocks and reuse it with different filters. And layers between two dense blocks will be placed, which consists of Batch Normalization, 1x1 Convolution &
 Average pooling
 
 ## Position of Transition Layer:
@@ -47,7 +47,7 @@ Average pooling
    Maxpooling wil be done before 2-3 layers from prediction.
 
 ## The distance of Batch Normalization from Prediction: 
-   Bacth Normalization wil certainly not done before the prediction layer.
+   Batch Normalization wil certainly not done before the prediction layer.
 
 ## SoftMax: 
 
