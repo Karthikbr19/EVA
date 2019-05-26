@@ -51,7 +51,9 @@ Average pooling
 
 ## SoftMax: 
 
-## Adam vs SGD
+## Adam vs SGD:
+
+   Both optimization algorithm have advantages and disadvantages. 
 
 ## When to add validation checks
    After completing the model architecture, when we train the model we add the validation checks.
@@ -64,7 +66,7 @@ Average pooling
   
 
 ## DropOut:
-   When the model is overfitting, we regularize it using the DropOut. 
+   When the model is overfitting, we regularize it using the DropOut. Adam is fast and SGD is good.
    
 ## Batch Size, and effects of batch size:
    Batch size is a term used in machine learning and refers to the number of training examples utilized in one iteration.
