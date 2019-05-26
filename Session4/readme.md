@@ -1,4 +1,4 @@
-# Model deveopment over different iterations
+# Model development over different iterations
 
   * 1st iteration - https://github.com/Karthikbr19/EVA/blob/master/Session4/1st_iteration.ipynb
   * 2nd iteration - https://github.com/Karthikbr19/EVA/blob/master/Session4/2nd_iteration.ipynb
