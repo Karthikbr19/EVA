@@ -5,4 +5,6 @@
 ## Session 3: https://github.com/Karthikbr19/EVA/tree/master/Session3
 
 ## Session 4: https://github.com/Karthikbr19/EVA/tree/master/Session4
+
+## Session 5: https://github.com/Karthikbr19/EVA/tree/master/Session5
  
