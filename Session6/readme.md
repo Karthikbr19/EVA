@@ -1,5 +1,5 @@
 ## Assignment links
 
-  6-A : https://colab.research.google.com/drive/1qbpSGSbNfqkiSO9-lddLcSFMy52Ii8qP
+  6-A : https://github.com/Karthikbr19/EVA/blob/master/Session6/karthikbr_assignment_6_A.ipynb
   
-  6-B : https://colab.research.google.com/drive/1qbpSGSbNfqkiSO9-lddLcSFMy52Ii8qP
+  6-B : https://github.com/Karthikbr19/EVA/blob/master/Session6/karthikbr_assignment_6_B.ipynb
