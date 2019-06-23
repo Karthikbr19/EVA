@@ -4,7 +4,7 @@
 
 ![Screenshot from 2019-06-19 11-52-55](/home/sanju/Desktop/Screenshot from 2019-06-19 11-52-55.png)
 
-## I couldn't able to complete this task.. i know this is wrong
+## I couldn't able to complete this task.. i know this is wrong :(
 
 | Layer Number                        | Input | Output | Receptive Field | jumpIn |
 | ----------------------------------- | ----- | ------ | --------------- | ------ |
