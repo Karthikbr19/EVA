@@ -4,6 +4,6 @@
 Model_1(Training without cutout) : 
 https://github.com/Karthikbr19/EVA/blob/master/Session9/kbr_base_model_1.ipynb
 
-Model_1(Training with cutout) : 
+Model_2(Training with cutout) : 
 https://github.com/Karthikbr19/EVA/blob/master/Session9/kbr_base_model_2.ipynb
 
