@@ -1,7 +1,7 @@
 
 ## Assignment 
 
-https://github.com/Karthikbr19/EVA/blob/master/Session10/Session_10.ipynb
+https://github.com/Karthikbr19/EVA/blob/master/Session10/Session_new_10.ipynb
 
 Colab link:
 
