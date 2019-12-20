@@ -15,3 +15,7 @@
 ## Cutout (Session 9): https://github.com/Karthikbr19/EVA/tree/master/Session9
 
 ## GradCam (Session 10): https://github.com/Karthikbr19/EVA/tree/master/Session10
+
+## LR fincer (Session 11): https://github.com/Karthikbr19/EVA/tree/master/Session11
+
+## DavidNet (Session 12): https://github.com/Karthikbr19/EVA/tree/master/Session12
