@@ -288,7 +288,7 @@ tf.keras.backend.set_learning_phase(1)
 
 Weight decay:
 
-To apply this we just add multiplication of weight,weight decay coefficient and BATCH_SIZE to gradients. In the next step when this gradient is actually applied to weight learning rate will be multiplied to weight decay factor along with the gradient.
+We sum up the multiplication of weight,weight decay coefficient and BATCH_SIZE to gradients. 
 
     for g, v in zip(grads, var):
        g += v * WEIGHT_DECAY * BATCH_SIZE
