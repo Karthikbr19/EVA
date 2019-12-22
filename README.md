@@ -19,3 +19,5 @@
 ## LR finder (Session 11): https://github.com/Karthikbr19/EVA/tree/master/Session11
 
 ## DavidNet (Session 12): https://github.com/Karthikbr19/EVA/tree/master/Session12
+
+## Resnet18on cifar10 (Session 13): https://github.com/Karthikbr19/EVA/tree/master/Session12
