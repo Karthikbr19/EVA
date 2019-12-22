@@ -20,4 +20,4 @@
 
 ## DavidNet (Session 12): https://github.com/Karthikbr19/EVA/tree/master/Session12
 
-## Resnet18 on cifar10 (Session 13): https://github.com/Karthikbr19/EVA/tree/master/Session12
+## Resnet18 on cifar10 (Session 13): https://github.com/Karthikbr19/EVA/tree/master/Session13
