@@ -26,3 +26,5 @@
 ## RCNN https://www.youtube.com/watch?v=DKZ3wwxEeSg
 
 ## Face Recognition https://www.youtube.com/watch?v=O6fgMaJA0Oc&feature=youtu.be
+
+## GAN : https://github.com/Karthikbr19/EVA/tree/master/Session19
