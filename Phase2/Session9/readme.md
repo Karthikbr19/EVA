@@ -5,7 +5,7 @@
 
 ![Step3](images2/3.png)
 
-![Step4](images2/4.png)
+                                  ![Step4](images2/4.png)
 
 ![Step5](images2/5.png)
 
