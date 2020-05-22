@@ -4,3 +4,6 @@
 !(1.png)
 
 [a relative link](1.png)
+
+![aaa](1.png)
+
