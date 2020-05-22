@@ -1,13 +1,13 @@
 
-![Step1](1.png)
+![Step1](images/1.png)
 
-![Step2](2.png)
+![Step2](images/2.png)
 
-![Step3](3.png)
+![Step3](images/3.png)
 
-![Step4](4.png)
+![Step4](images/4.png)
 
-![Step5](5.png)
+![Step5](images/5.png)
 
 ![Step6](6.png)
 
