@@ -9,25 +9,25 @@
 
 ![Step5](images/5.png)
 
-![Step6](6.png)
+![Step6](images/6.png)
 
-![Step7](7.png)
+![Step7](images/7.png)
 
-![Step8](8.png)
+![Step8](images/8.png)
 
-![Step9](9.png)
+![Step9](images/9.png)
 
-![Step10](10.png)
+![Step10](images/10.png)
 
-![Step11](11.png)
+![Step11](images/11.png)
 
-![Step12](12.png)
+![Step12](images/12.png)
 
-![Step13](13.png)
+![Step13](images/13.png)
 
-![Step14](14.png)
+![Step14](images/14.png)
 
-![Step15](15.png)
+![Step15](images/15.png)
 
 
 
