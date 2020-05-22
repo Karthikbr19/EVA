@@ -1,15 +1,21 @@
 
 ![Step1](images2/1.png)
 
+
 ![Step2](images2/2.png)
+
 
 ![Step3](images2/3.png)
 
-                                  ![Step4](images2/4.png)
+
+![Step4](images2/4.png)
+
 
 ![Step5](images2/5.png)
 
+
 ![Step6](images2/6.png)
+
 
 ![Step7](images2/7.png)
 
