@@ -1,1 +1,1 @@
-![Step1](images/steps_image.png)
+![Step1](images/step_image.png)
