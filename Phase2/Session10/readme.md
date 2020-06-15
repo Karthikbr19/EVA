@@ -1,6 +1,9 @@
 
 End Game Assignment
 Youtube link - https://youtu.be/B08dQQgJRRM
+Quiz Notebook : https://github.com/Karthikbr19/EVA/tree/master/Phase2/Session10/notebooks
+
+
 
 Environment Stack
 Kivy (map.py and car.kv) - for the city map, car and define other environment conditions
