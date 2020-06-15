@@ -16,5 +16,5 @@ Orientation: Positive and negative orientation are concatenated as input to acto
 Action - Action value is concatenate and passed as input to critic mode
 
 
-Issues:
-After the latest training, the car is going from target A to target B but not taking roads.
+Issue:
+Model is not godd enough to go on the road
